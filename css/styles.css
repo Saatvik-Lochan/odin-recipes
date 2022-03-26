@@ -1,0 +1,27 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+img {
+    max-width: 500px;
+    width: 50%;
+    height: auto;
+}
+
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+
+body {
+    background-image: url("../img/background.png");
+}
+
+h2 {
+    margin: 2rem, 4rem, 4rem, 2rem;
+}
